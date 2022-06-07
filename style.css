@@ -1,0 +1,53 @@
+.fa-brands {
+    margin-left: 80px;
+    font-size: 20px;
+}
+b {
+    font-size: 20px;
+}
+.btn {
+    margin-left: 750px;
+}
+div.w-25 img {
+    width: 100%;
+    margin-left: 150px;
+}
+
+ {
+    background-color: #eee;
+}
+div.post {
+    background-color: white;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+div.post img {
+    width: 100%;
+}
+div.post .post-header div:first-child{
+    display: inline-block;
+    width: 80%;
+}
+div.post .post-header div:last-child{
+    display: inline-block;
+    width: 20%;
+    padding: 10px;
+    text-align: right;
+    color: gray;
+}
+div.post h2, div.post p, div.post h6{
+    padding: 5px;
+    margin: 0;;
+}
+div.container {
+    width: 600px;
+    margin: auto;
+}
+.colorfondo {
+    background-color: rgb(223, 222, 222);
+    padding: 20px;
+}
+.fa-solid {
+    padding: 5px;
+    margin: 0;;
+}
